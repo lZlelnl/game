@@ -1,0 +1,6 @@
+var name = prompt(what is your name);
+console.log("good morning " + name);
+var magic = function(){
+var spell = prompt("what spell do you call?")
+ if spell === test console.log(test)
+};
